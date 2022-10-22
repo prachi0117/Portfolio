@@ -1,0 +1,183 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+}
+.sec1{
+    background-color: black;
+    height: 750px;
+}
+.nav{
+    border: 1px solid black;
+    padding:25px;
+    position:relative;
+}
+.logo{
+    font-size:30px;
+    color:white;
+    margin-left: 60px;
+}
+span{
+   color:crimson;
+}
+.links{
+    position:absolute;
+    left:950px;
+    top:45px;
+    word-spacing: 45px;
+}
+.l{
+    color:white;
+}
+.l:hover{
+    color:crimson;
+}
+.intro{
+    color:white;
+    position:absolute;
+    top:40%;
+    left:80px;
+    padding: 10px;
+}
+.hello{
+   font-size: 25px;
+}
+.name{
+    margin-top: 5px;
+    font-size:60px;
+}
+.im{
+   margin-top: 5px;
+    font-size: 30px;
+}
+#hireme{
+    width:120px;
+    border-radius:25px;
+    padding:12px 0;
+    margin-top:20px;
+    font-weight:bold;
+    border:2px solid crimson;
+    background-color:crimson;
+    color:white;
+    position:absolute;
+}
+#hireme:hover{
+    background: transparent;
+}
+.abouthead{
+    text-align: center;
+    margin-top: 30px;
+}
+.aboutcontent{
+    position:relative;
+}
+.myphto{
+    position: absolute;
+    width:320px;
+    height:290px;
+    left: 220px;
+    margin-top:40px;
+}
+.about2{
+    position:absolute;
+    left:720px;
+    width:600px;
+    margin-top:30px;
+    padding:20px;
+    text-align:justify;
+}
+.pg{
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.aboutme{
+    margin-top: 20px;
+}
+.about{
+    font-size:30px;
+}
+.who{
+    color:crimson;
+    font-weight: bold;
+}
+#resume{
+    margin-top: 20px;
+    width:150px;
+    padding:8px;
+    background-color: crimson;
+    border:none;
+    color:white;
+    border-radius: 5%;
+
+}
+.sec3{
+    margin-top:500px;
+    background-color:darkgray;
+    height:600px;
+}
+.prohead{
+    color:white;
+    padding:30px;
+    text-align: center;
+    font-size: 30px;
+}
+.probox{
+    position:absolute;
+    margin-left: 240px;
+}
+.probox1{
+    width:280px;
+    height:280px;
+    border-radius: 10px;
+    display: inline-block;
+    margin:20px;
+    position:relative;
+    box-shadow:-1px 0.3px 2px  floralwhite
+    
+}
+.travelimg{
+    width:100%;
+    height:100%;
+    border-radius: 10px;
+    background-position: center;
+    background-size: cover;
+    transition:1s;
+
+}
+.travelimg:hover{
+    transform:scale(1.1);
+    
+}
+.probox1 p{
+    position: absolute;
+    left:50%;
+    top:45%;
+    text-align:center;
+    transform: translate(-50%,-50%);
+    font-size:20px;
+
+}
+.prolink{
+    color:black;
+    font-weight: bold;
+}
+.propara{
+
+    color:white;
+}
+.sec4 {
+   padding:80px;
+}
+.sec4 h2{
+    text-align: center;
+    font-size:35px;
+    padding:20px;
+}
+.skillimg{
+    margin-top:30px;
+    width:500px;
+    position: absolute;
+    left:30%;
+
+}
